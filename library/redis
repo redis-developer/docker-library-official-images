@@ -6,64 +6,52 @@ Maintainers: Adam Ben Shmuel <adam.ben-shmuel@redis.com> (@adamiBs),
              Petar Shtuchkin <petar.shtuchkin@redis.com> (@Peter-Sh)
 GitRepo: https://github.com/redis/docker-library-redis.git
 
-Tags: 8.8-m03, 8.8-m03-trixie
+Tags: 8.8-m02, 8.8-m02-trixie
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, riscv64, ppc64le, s390x
-GitCommit: fa43b354211879f28d1773ae94e740bd534eb6ef
-GitFetch: refs/tags/v8.8-m03
+GitCommit: b70a8c13f774f8e1c00318f34697fad989d6d5dc
+GitFetch: refs/tags/v8.8-m02
 Directory: debian
 
-Tags: 8.8-m03-alpine, 8.8-m03-alpine3.23
+Tags: 8.8-m02-alpine, 8.8-m02-alpine3.23
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: fa43b354211879f28d1773ae94e740bd534eb6ef
-GitFetch: refs/tags/v8.8-m03
+GitCommit: b70a8c13f774f8e1c00318f34697fad989d6d5dc
+GitFetch: refs/tags/v8.8-m02
 Directory: alpine
 
-Tags: 8.6.3, 8.6, 8, 8.6.3-trixie, 8.6-trixie, 8-trixie, latest, trixie
+Tags: 8.6.2, 8.6, 8, 8.6.2-trixie, 8.6-trixie, 8-trixie, latest, trixie
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, riscv64, ppc64le, s390x
-GitCommit: 70233d27f12d7df70a1146d9348c6a70c31eebcc
-GitFetch: refs/tags/v8.6.3
+GitCommit: 8c81e2a44cae9258294718d767ce594e5cbbf20e
+GitFetch: refs/tags/v8.6.2
 Directory: debian
 
-Tags: 8.6.3-alpine, 8.6-alpine, 8-alpine, 8.6.3-alpine3.23, 8.6-alpine3.23, 8-alpine3.23, alpine, alpine3.23
+Tags: 8.6.2-alpine, 8.6-alpine, 8-alpine, 8.6.2-alpine3.23, 8.6-alpine3.23, 8-alpine3.23, alpine, alpine3.23
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: 70233d27f12d7df70a1146d9348c6a70c31eebcc
-GitFetch: refs/tags/v8.6.3
+GitCommit: 8c81e2a44cae9258294718d767ce594e5cbbf20e
+GitFetch: refs/tags/v8.6.2
 Directory: alpine
 
-Tags: 8.4.3, 8.4, 8.4.3-trixie, 8.4-trixie
+Tags: 8.4.2, 8.4, 8.4.2-trixie, 8.4-trixie
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, riscv64, ppc64le, s390x
-GitCommit: 78a697e0928dd9ed4ec104a88917dc714bae6e60
-GitFetch: refs/tags/v8.4.3
+GitCommit: f57c53203ef603901bd75cbee76f1f5a5d56d8fa
+GitFetch: refs/tags/v8.4.2
 Directory: debian
 
-Tags: 8.4.3-alpine, 8.4-alpine, 8.4.3-alpine3.22, 8.4-alpine3.22
+Tags: 8.4.2-alpine, 8.4-alpine, 8.4.2-alpine3.22, 8.4-alpine3.22
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: 78a697e0928dd9ed4ec104a88917dc714bae6e60
-GitFetch: refs/tags/v8.4.3
+GitCommit: f57c53203ef603901bd75cbee76f1f5a5d56d8fa
+GitFetch: refs/tags/v8.4.2
 Directory: alpine
 
 Tags: 8.2.6, 8.2, 8.2.6-bookworm, 8.2-bookworm
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: ae2372898bd403acf24f8044fd72968cedc3f370
+GitCommit: 8f9c996974573b6031d867a49ec1d46e4e94e9e2
 GitFetch: refs/tags/v8.2.6
 Directory: debian
 
 Tags: 8.2.6-alpine, 8.2-alpine, 8.2.6-alpine3.22, 8.2-alpine3.22
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: ae2372898bd403acf24f8044fd72968cedc3f370
+GitCommit: 8f9c996974573b6031d867a49ec1d46e4e94e9e2
 GitFetch: refs/tags/v8.2.6
-Directory: alpine
-
-Tags: 8.0.6, 8.0, 8.0.6-bookworm, 8.0-bookworm
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 7f2385183921bba168de2f0444cf455637c044e3
-GitFetch: refs/tags/v8.0.6
-Directory: debian
-
-Tags: 8.0.6-alpine, 8.0-alpine, 8.0.6-alpine3.21, 8.0-alpine3.21
-Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: 7f2385183921bba168de2f0444cf455637c044e3
-GitFetch: refs/tags/v8.0.6
 Directory: alpine
 
 Tags: 7.4.9, 7.4, 7, 7.4.9-bookworm, 7.4-bookworm, 7-bookworm
