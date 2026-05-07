@@ -92,12 +92,12 @@ Directory: alpine
 
 Tags: 6.2.22, 6.2, 6, 6.2.22-bookworm, 6.2-bookworm, 6-bookworm
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 27958918ab84259c0506f1fe25a5ed47d248f218
+GitCommit: 2598ca399aad20a20058ba8d043f4ac54207d994
 GitFetch: refs/tags/v6.2.22
 Directory: debian
 
 Tags: 6.2.22-alpine, 6.2-alpine, 6-alpine, 6.2.22-alpine3.21, 6.2-alpine3.21, 6-alpine3.21
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: 27958918ab84259c0506f1fe25a5ed47d248f218
+GitCommit: 2598ca399aad20a20058ba8d043f4ac54207d994
 GitFetch: refs/tags/v6.2.22
 Directory: alpine
