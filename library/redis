@@ -80,16 +80,16 @@ GitCommit: 74654c612ee06275377d483dc4e134e57b463e9e
 GitFetch: refs/tags/v7.4.11
 Directory: alpine
 
-Tags: 7.2.16, 7.2, 7.2.16-bookworm, 7.2-bookworm
+Tags: 7.2.17, 7.2, 7.2.17-bookworm, 7.2-bookworm
 Architectures: amd64, arm32v7, arm64v8, i386, ppc64le
-GitCommit: 09aa4e1a1bb278b1ad77bdeb43bde981fad64e49
-GitFetch: refs/tags/v7.2.16
+GitCommit: 41bd5f7bdf101142b029865bf727a97810ca8e02
+GitFetch: refs/tags/v7.2.17
 Directory: debian
 
-Tags: 7.2.16-alpine, 7.2-alpine, 7.2.16-alpine3.21, 7.2-alpine3.21
+Tags: 7.2.17-alpine, 7.2-alpine, 7.2.17-alpine3.21, 7.2-alpine3.21
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: 09aa4e1a1bb278b1ad77bdeb43bde981fad64e49
-GitFetch: refs/tags/v7.2.16
+GitCommit: 41bd5f7bdf101142b029865bf727a97810ca8e02
+GitFetch: refs/tags/v7.2.17
 Directory: alpine
 
 Tags: 6.2.24, 6.2, 6, 6.2.24-bookworm, 6.2-bookworm, 6-bookworm
