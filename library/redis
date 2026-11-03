@@ -70,25 +70,25 @@ Directory: alpine
 
 Tags: 7.4.12, 7.4, 7, 7.4.12-bookworm, 7.4-bookworm, 7-bookworm
 Architectures: amd64, arm32v7, arm64v8, i386, ppc64le
-GitCommit: 786872f8c248c1f0990f93244cbcb3949329016d
+GitCommit: 346d38e447b5f2266de15081b60f952448c93594
 GitFetch: refs/tags/v7.4.12
 Directory: debian
 
-Tags: 7.4.12-alpine, 7.4-alpine, 7-alpine, 7.4.12-alpine3.21, 7.4-alpine3.21, 7-alpine3.21
+Tags: 7.4.12-alpine, 7.4-alpine, 7-alpine, 7.4.12-alpine3.22, 7.4-alpine3.22, 7-alpine3.22
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: 786872f8c248c1f0990f93244cbcb3949329016d
+GitCommit: 346d38e447b5f2266de15081b60f952448c93594
 GitFetch: refs/tags/v7.4.12
 Directory: alpine
 
 Tags: 7.2.17, 7.2, 7.2.17-bookworm, 7.2-bookworm
 Architectures: amd64, arm32v7, arm64v8, i386, ppc64le
-GitCommit: 41bd5f7bdf101142b029865bf727a97810ca8e02
+GitCommit: f40d1b25dbd4ab13868e764644d5e7298b3440c8
 GitFetch: refs/tags/v7.2.17
 Directory: debian
 
-Tags: 7.2.17-alpine, 7.2-alpine, 7.2.17-alpine3.21, 7.2-alpine3.21
+Tags: 7.2.17-alpine, 7.2-alpine, 7.2.17-alpine3.22, 7.2-alpine3.22
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
-GitCommit: 41bd5f7bdf101142b029865bf727a97810ca8e02
+GitCommit: f40d1b25dbd4ab13868e764644d5e7298b3440c8
 GitFetch: refs/tags/v7.2.17
 Directory: alpine
 
